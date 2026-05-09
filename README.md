@@ -2,7 +2,7 @@
 
 <img src="giphy.gif" width="300" alt="" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosslouvan) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mosslouvan.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mosslouvan67@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosslouvan) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://mosslouvan.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mosslouvan67@gmail.com)
 
 i'm a rising sophomore @ Iowa State studying SE 🤩
 
