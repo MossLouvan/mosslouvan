@@ -6,7 +6,7 @@
 
 i'm a rising sophomore @ Iowa State studying SE 🤩
 
-currently building customer-facing AI agents @ **John Deere**
+currently working @ **John Deere**
 
 - previously the youngest engineer ever hired @ **Principal Financial Group** — built a full-stack AI doc processing pipeline and got to present it to the CEO
 - won the **national 2024 NASA App Development Challenge** (https://www.nasa.gov/learning-resources/app-development-challenge/) out of 90+ teams — flown to Johnson Space Center, toured Mission Control, ran astronaut training simulations alongside NASA engineers 
