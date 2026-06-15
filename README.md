@@ -95,10 +95,6 @@ An interactive moon-rover scene built with Three.js that drives my personal port
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MossLouvan/mosslouvan/main/github-metrics.svg" alt="" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=header" alt="" />
 
 ## What I work with
