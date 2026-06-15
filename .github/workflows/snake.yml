@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout (for the counter inject script)
+        uses: actions/checkout@v4
+
       - name: Generate snake game SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +26,19 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Inject synced contribution counter
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          TOTAL=$(curl -s -H "Authorization: bearer $GH_TOKEN" -H "Content-Type: application/json" \
+            -d "{\"query\":\"query{user(login:\\\"$OWNER\\\"){contributionsCollection{contributionCalendar{totalContributions}}}}\"}" \
+            https://api.github.com/graphql \
+            | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['data']['user']['contributionsCollection']['contributionCalendar']['totalContributions'])" 2>/dev/null || echo 0)
+          echo "Total contributions: $TOTAL"
+          python3 .github/scripts/inject_counter.py "$TOTAL" dist/github-snake.svg "#1f2328"
+          python3 .github/scripts/inject_counter.py "$TOTAL" dist/github-snake-dark.svg "#ffffff"
 
       - name: Push generated SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4

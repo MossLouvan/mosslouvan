@@ -59,10 +59,6 @@ i'm a rising sophomore studying Software Engineering @ **Iowa State** (full-ride
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MossLouvan/mosslouvan/main/assets/contributions-counter.svg" alt="" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:bc8cff&height=2&section=header" alt="" />
 
 ## What I work with
