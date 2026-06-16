@@ -80,10 +80,6 @@ An interactive moon-rover scene built with Three.js that drives my personal port
 
 ## GitHub stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MossLouvan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&rank_icon=github&v=20260615" alt="" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossLouvan&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&langs_count=8&v=20260615" alt="" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MossLouvan&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&v=20260615" alt="" />
