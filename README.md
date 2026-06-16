@@ -8,7 +8,11 @@
 i'm a rising sophomore studying Software Engineering @ **Iowa State** (full-ride · 4.0 major GPA), currently working @ **John Deere**
 
 <a href="https://github.com/MossLouvan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=F7F7F7FF&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Iowa+State+University;Engineer+%40+John+Deere;SwanHacks+2026+Winner;NASA+App+Challenge+National+Winner" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=F7F7F7FF&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Iowa+State+University;Engineer+%40+John+Deere;SwanHacks+2026+Winner;NASA+App+Challenge+National+Winner" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1F2328FF&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Iowa+State+University;Engineer+%40+John+Deere;SwanHacks+2026+Winner;NASA+App+Challenge+National+Winner" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=1F2328FF&center=true&vCenter=true&width=520&height=45&lines=Software+Engineer;Iowa+State+University;Engineer+%40+John+Deere;SwanHacks+2026+Winner;NASA+App+Challenge+National+Winner" alt="" />
+  </picture>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosslouvan)
