@@ -78,12 +78,6 @@ An interactive moon-rover scene built with Three.js that drives my personal port
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=header" alt="" />
 
-## GitHub stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MossLouvan&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&v=20260615" alt="" />
-</p>
 
 ## Contribution graph
 
