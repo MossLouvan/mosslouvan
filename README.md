@@ -3,7 +3,11 @@
 
 # Hey, I'm Moss 👋
 
-<img src="giphy.gif" width="300" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="ascii-portrait-light.svg" />
+  <img alt="Animated ASCII art portrait of Moss, rendered entirely from text characters" src="ascii-portrait-dark.svg" width="460" />
+</picture>
 
 i'm a rising sophomore studying Software Engineering @ **Iowa State** (full-ride · 4.0 major GPA), currently working @ **John Deere**
 
@@ -75,17 +79,6 @@ An interactive moon-rover scene built with Three.js that drives my personal port
 - **Repo:** [MossLouvan/3DPortfolioMossLouvan](https://github.com/MossLouvan/3DPortfolioMossLouvan)
 
 </details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=header" alt="" />
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="ascii-portrait-light.svg" />
-    <img alt="Animated ASCII art portrait of Moss, rendered entirely from text characters" src="ascii-portrait-dark.svg" width="760" />
-  </picture>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=header" alt="" />
 
