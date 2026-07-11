@@ -79,13 +79,11 @@ An interactive moon-rover scene built with Three.js that drives my personal port
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=header" alt="" />
 
 
-## Contribution graph
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MossLouvan/mosslouvan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MossLouvan/mosslouvan/output/github-snake.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/MossLouvan/mosslouvan/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="ascii-portrait-light.svg" />
+    <img alt="Animated ASCII art portrait of Moss, rendered entirely from text characters" src="ascii-portrait-dark.svg" width="760" />
   </picture>
 </p>
 
