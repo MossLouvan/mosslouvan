@@ -94,6 +94,6 @@ TypeScript · React/React Native · Python · Node · Three.js · LLM/agent syst
 
 <div align="center">
 
-currently grinding leetcode and obsessing over agent architectures. always down to talk hackathons or AI 😅
+currently grinding leetcode 🙂
 
 </div>
