@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Moss 👋
+# Hey, I'm Moss
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg" />
