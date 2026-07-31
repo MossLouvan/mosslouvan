@@ -8,11 +8,11 @@
   <img alt="Animated ASCII art portrait of Moss, rendered entirely from text characters" src="ascii-portrait-dark.svg" width="460" />
 </picture>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosslouvan)
+[![Portfolio](https://img.shields.io/badge/mosslouvan.com-000000?style=for-the-badge)](https://mosslouvan.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosslouvan67@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mosslouvan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosslouvan)
-[![Portfolio](https://img.shields.io/badge/mosslouvan.com-portfolio-1a1a1a?style=flat)](https://mosslouvan.com)
-[![Email](https://img.shields.io/badge/Email-mosslouvan67-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mosslouvan67@gmail.com)
+</div>
 
 rising sophomore studying Software Engineering @ **Iowa State** — full ride, 4.0 major GPA
 
